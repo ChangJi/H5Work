@@ -10,6 +10,8 @@ public class GameAppInitLoader
 
 		// 临时启动
 		.....
+		login=new LoginManager;
+		login.Load();
 
 	}
 	//加载B完成
